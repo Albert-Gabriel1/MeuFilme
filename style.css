@@ -13,13 +13,13 @@ html,body{
     min-height: 100%;
 }
 main{
-    min-height: 100vh;
+    min-height: 100%;
 }
 #main2{
     padding: 5px;
     text-align: center;
     margin: auto;
-    height: 100vh;
+    height: 100%;
     width: 55%;
     text-align: justify;
     line-height: 1.2em;
