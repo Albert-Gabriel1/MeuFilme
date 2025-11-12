@@ -34,7 +34,7 @@ header{
     border: 1px solid rgb(139, 139, 139);
 }
 #filho{
-   flex: 0 0 auto;
+   flex: 0 1 auto;
 }
 #filho2{
     display: flex;
@@ -58,7 +58,6 @@ h1,h2{
 }
 
 #banner{
-    padding: 0px;
     background:url(imagens/final\ space\ -\ season\ 1.png) no-repeat center top;
     background-size: cover;
     height: 500px;
@@ -133,6 +132,7 @@ a{
     height: 400px;
 }
 footer{
+    margin-top: 0px;
     height: 70px;
     border: 1px solid #e50914;
     padding: 5px;
