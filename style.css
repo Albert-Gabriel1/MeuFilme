@@ -18,7 +18,8 @@ main{
 #main2{
     padding: 5px;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
+    height: 740px;
     width: 55%;
     text-align: justify;
     line-height: 1.2em;
@@ -60,7 +61,7 @@ h1,h2{
     padding: 0px;
     background:url(imagens/final\ space\ -\ season\ 1.png) no-repeat center top;
     background-size: cover;
-    height: 90%;
+    height: 500px;
     width: 100%;
     margin: auto;
     background-color: rgba(43, 40, 40, 0.377);
@@ -138,8 +139,10 @@ footer{
     text-align: center;
 }
 #img1{
-    padding: 0px;
     border: 1px solid #4d0505;
+    display: block;
+    margin: auto;
     width: 100%;
-
+    text-align: center;
+    height: auto;
 }
